@@ -13,3 +13,7 @@
 
 [![Spotify](https://31lyhafqhss4vnaetacv4eutocim.vercel.app/api/spotify)](https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim)
 
+### Spotify Playing
+
+[<img src="https://novatorem-amerali94.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim
+
