@@ -11,6 +11,10 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... owns 0.000005 of a bitcoin
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
 [![Spotify](https://31lyhafqhss4vnaetacv4eutocim.vercel.app/api/spotify)](https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim)
 
 ### Spotify Playing
