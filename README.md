@@ -15,7 +15,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://31lyhafqhss4vnaetacv4eutocim.vercel.app/api/spotify)](https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim)
+&nbsp; <br> [![Spotify](https://31lyhafqhss4vnaetacv4eutocim.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim)
 
 ### Spotify Playing
 
