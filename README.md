@@ -16,11 +16,12 @@
   <td width="50%">
 
 &nbsp; <br> [![Spotify](https://novatorem-amerali94.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim)
-
+ </td>
+  <td width="50%">
+    
 ### Spotify Playing
 
 [<img src="https://novatorem-amerali94.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
 (https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim
-
-  </td>
-  </table>
+ </td>
+  <td width="50%">
