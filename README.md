@@ -10,10 +10,9 @@
 - 📫 How to reach me: ... ameralizee94@gmail.com, Discord: Aamer#3510
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... owns 0.000005 of a bitcoin
-### Spotify Playing
-<table width="100%"> 
-  <tr>
 
+
+### Spotify Playing
 
 &nbsp; <br> [![Spotify](https://novatorem-self-six.vercel.app/api/spotify)](https://open.spotify.com/user/31lyhafqhss4vnaetacv4eutocim)
  </td>
