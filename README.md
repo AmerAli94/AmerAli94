@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Building p2p multiplayer in Unity/Unreal
+- 🔭 I’m currently working on ... Building a 2D arcade game in Unity and 3D - First Person shooter in Unreal 
 - 🌱 I’m currently learning ... c# ,C++ , Java, Open-GL, DirectX, Swift, Game Engines, 3D Modeling, Solidity, Blockchain
 - 👯 I’m looking to collaborate on ... Team Projects, Individual tasks, anything fun to make, Web Design
 - 🤔 I’m looking for help with ... Directx, Swift, Android Development, AI, Animation, Art, Game Art, Solidity
